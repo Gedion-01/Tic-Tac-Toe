@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
-#Introduction
+# Introduction
 
 This code defines a Game component in React, which renders a game of Tic-Tac-Toe. The game state is managed using React's useState hook, and the Board component is used to render the game board.
-#Functionality
+# Functionality
 
 When the Game component is rendered, it initializes the game state using the useState hook. It sets the initial player as 'X', initializes the game history to an array with one element (an array of 9 null values), and sets the current move to 0.
 
